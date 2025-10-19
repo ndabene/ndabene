@@ -22,7 +22,16 @@ Développeur passionné par la création de solutions élégantes et performante
 - 💼 [LinkedIn](https://www.linkedin.com/in/nicolas-dab%C3%A8ne-473a43b8/)
 
 ---
+## 🎁 Perplexity PRO offert – 30 jours gratuits
 
+🚀 **Essayez Comet**, le navigateur intelligent de Perplexity, et bénéficiez de **30 jours de Perplexity PRO** offerts.
+
+Téléchargez **Comet**, connectez votre compte et posez votre première question pour activer l’offre.
+
+👉 [**Activer l'offre →**](https://pplx.ai/ndabene28081991)
+
+
+---
 ## 📊 Statistiques GitHub
 
 <div align="center">
