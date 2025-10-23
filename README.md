@@ -7,6 +7,10 @@
 [![Website](https://img.shields.io/badge/🌐_Site_Web-nicolas--dabene.fr-0077B5?style=for-the-badge)](https://nicolas-dabene.fr)
 [![Blog](https://img.shields.io/badge/📝_Blog-Mes_Articles-FF5722?style=for-the-badge)](https://nicolas-dabene.fr/blog/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolas_Dabène-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-dab%C3%A8ne-473a43b8/)
+[![Facebook](https://img.shields.io/badge/Facebook-Nicolas_Dabène-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/61582725210619/)
+[![YouTube](https://img.shields.io/badge/YouTube-ndabene06-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ndabene06)
+
+
 
 </div>
 
