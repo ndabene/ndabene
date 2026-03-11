@@ -1,85 +1,105 @@
-# 👋 Salut, je suis Nicolas Dabène
+# Nicolas Dabène
 
-### Architecte e-commerce AI-native | Expert PrestaShop | AI Orchestrator
+### AI-Native E-commerce Architect | PrestaShop Expert | AI Orchestrator
 
-[![Website](https://img.shields.io/badge/Site_Web-nicolas--dabene.fr-0077B5?style=for-the-badge)](https://nicolas-dabene.fr)
-[![Blog](https://img.shields.io/badge/Blog-Articles_IA_&_Ecommerce-FF5722?style=for-the-badge)](https://nicolas-dabene.fr/blog/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolas_Dabène-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-dab%C3%A8ne-473a43b8/)
+[![Website](https://img.shields.io/badge/Website-nicolas--dabene.fr-0A66C2?style=for-the-badge)](https://nicolas-dabene.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolas_Dabène-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-dab%C3%A8ne-473a43b8/)
 [![YouTube](https://img.shields.io/badge/YouTube-ndabene06-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ndabene06)
+[![CoderLegion](https://coderlegion.com/cl_badge_logo1.png)](https://coderlegion.com/user/Nicolas+Dab%C3%A8ne)
+
+I share technical articles, AI x commerce insights, and developer reflections on [CoderLegion](https://coderlegion.com/user/Nicolas+Dab%C3%A8ne).
 
 ---
 
-## 🧭 Ma mission
+## 🧭 Mission
 
-J’aide les boutiques e-commerce à devenir **AI-native** en combinant :
+I help e-commerce businesses become **AI-native** by combining:
 
-- architecture PrestaShop moderne
-- agents IA et automatisation
-- gouvernance technique orientée long terme
+- modern PrestaShop architecture
+- AI agents and intelligent automation
+- long-term technical governance
+- real-world commerce systems built for the next generation of software
 
-Mon travail se situe à la frontière entre **développement réel**, **orchestration IA**, et **commerce digital**.
-
----
-
-## 🚀 Ce que je construis
-
-- Modules PrestaShop orientés IA (MCP, UCP, automation)
-- Architectures e-commerce prêtes pour les agents intelligents
-- Workflows d’orchestration IA appliqués au commerce réel
-- Contenus techniques et analyses sur l’évolution du software
+My work sits at the intersection of **software engineering**, **AI orchestration**, and **digital commerce**.
 
 ---
 
-## ✍️ Ce que je partage
+## 🚀 What I build
 
-Sur mon blog, j’explore :
-
-- l’évolution du e-commerce vers un modèle agentique
-- la gouvernance IA dans les systèmes marchands
-- l’architecture logicielle durable pour PrestaShop
-- la transformation du rôle des développeurs à l’ère des agents
-
-➡️ [Lire les articles](https://nicolas-dabene.fr/blog/)
+- PrestaShop modules designed for AI-native commerce
+- MCP / UCP-ready commerce integrations
+- intelligent automation workflows for real merchant use cases
+- future-ready e-commerce architectures for agentic systems
+- technical content around software evolution, AI, and commerce
 
 ---
 
-## ⭐ Perplexity PRO offert – 30 jours gratuits
+## ✍️ What I share
 
-Essayez **Comet**, le navigateur intelligent de Perplexity, et bénéficiez de **30 jours de Perplexity PRO** offerts.
+On my blog, I write about:
 
-[**Activer l'offre →**](https://pplx.ai/ndabene28081991)
+- the rise of agentic commerce
+- AI governance in merchant ecosystems
+- durable software architecture for PrestaShop
+- the evolving role of developers in the age of AI agents
+- practical insights from building real modules and automation flows
 
----
-
-## 📊 Statistiques GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndabene&show_icons=true&theme=tokyonight&count_private=true&hide=contribs&show=prs_merged,reviews)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ndabene&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ndabene&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+➡️ [Read the blog](https://nicolas-dabene.fr/blog/)
 
 ---
 
-## 🏆 Réalisations GitHub
+## 🔭 Currently exploring
 
-![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=ndabene&theme=tokyonight&no-frame=true&row=1&column=6)
-
----
-
-## 🔭 En ce moment
-
-- Construction d’outils AI-native pour PrestaShop
-- Expérimentation autour des agents IA pour le commerce
-- Publication régulière d’analyses techniques
-- Exploration des futures architectures e-commerce
+- AI-native tooling for PrestaShop
+- agent workflows for commerce orchestration
+- module design for next-generation e-commerce ecosystems
+- content systems and automation pipelines
+- the shift from classic software to agent-assisted development
 
 ---
 
-## 🤝 Collaborons
+## 🤝 Let’s connect
 
-Si vous travaillez sur :
+If you work on:
 
-- e-commerce intelligent
-- intégration IA
-- architecture PrestaShop avancée
+- intelligent e-commerce
+- AI integration
+- advanced PrestaShop architecture
+- automation for merchants and agencies
 
-… alors nous parlons probablement le même langage.
+…we probably speak the same language.
+
+---
+
+## 💡 Core focus
+
+I’m especially interested in building the bridge between:
+
+- **PrestaShop and AI agents**
+- **commerce infrastructure and orchestration**
+- **developer tooling and business value**
+- **practical implementation and future-facing strategy**
+
+---
+
+## 🤝 Community Involvement
+
+I’m part of the **Friends of Presta** ecosystem, a professional association that brings together **PrestaShop experts, agencies, freelancers, and module publishers** across France and Europe.
+
+This community involvement aligns with my work around **AI-native commerce**, **PrestaShop architecture**, and the long-term evolution of merchant ecosystems.
+
+➡️ [Learn more about Friends of Presta](https://friendsofpresta.org/fr)
+
+---
+
+## 📫 Find me online
+
+- 🌐 [Website](https://nicolas-dabene.fr)
+- 📝 [Blog](https://nicolas-dabene.fr/blog/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nicolas-dab%C3%A8ne-473a43b8/)
+- 🎥 [YouTube](https://www.youtube.com/@ndabene06)
+- 👨‍💻 [CoderLegion](https://coderlegion.com/user/Nicolas+Dab%C3%A8ne)
+
+---
+
+> Building AI-native commerce, one module, workflow, and architecture at a time.
